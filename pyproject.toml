@@ -23,7 +23,7 @@ classifiers = [
 dependencies = [
   "pillow>=11.0,<13",
   "pyphen>=0.17,<1",
-  "pypdf>=5.0,<7",
+  "pypdf>=5.0,<8",
   "reportlab>=4.2,<6",
 ]
 
